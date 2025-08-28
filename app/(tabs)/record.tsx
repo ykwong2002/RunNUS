@@ -1,6 +1,6 @@
 import { Text, View } from "react-native";
 
-export default function Community() {
+export default function Record() {
   return (
     <View
       style={{
@@ -9,7 +9,7 @@ export default function Community() {
         alignItems: "center",
       }}
     >
-      <Text>This is the Community Page.</Text>
+      <Text>This is the Record Page.</Text>
     </View>
   );
 }
